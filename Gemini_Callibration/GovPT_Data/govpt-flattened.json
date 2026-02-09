@@ -1,0 +1,1002 @@
+[
+  {
+    "question": "Estava a pensar tirar a licença de caça, mas não sei se cumpro os requisitos. Quem pode obter a licença de caça?",
+    "candidate_answer": "Os titulares de carta de caçador válida."
+  },
+  {
+    "question": "Estava a pensar tirar a licença de caça, mas não sei se cumpro os requisitos. Quem pode obter a licença de caça?",
+    "candidate_answer": "Os titulares de carta de condução de veículos ligeiros."
+  },
+  {
+    "question": "Gostaria de tirar a carta de caçador, mas não sei o que é preciso. Quais são os documentos e requisitos para a obter?",
+    "candidate_answer": "É necessário apresentar os seguintes documentos:      Cartão de Cidadão ou Bilhete de Identidade e número de contribuinte     Atestado médico, emitido há menos de 90 dias, que comprove a sua aptidão física e psicológica para a prática da caça     Certificado de registo criminal  Se o pedido for feito por outra pessoa, tem de preencher e entregar a minuta de declaração."
+  },
+  {
+    "question": "Gostaria de tirar a carta de caçador, mas não sei o que é preciso. Quais são os documentos e requisitos para a obter?",
+    "candidate_answer": "É necessário apresentar os seguintes documentos:      Cartão de Cidadão ou Bilhete de Identidade e número de contribuinte     Atestado médico, emitido há menos de 30 dias, que comprove a sua aptidão física e psicológica para a prática da caça     Certificado de registo criminal  Se o pedido for feito por outra pessoa, tem de preencher e entregar a minuta de declaração."
+  },
+  {
+    "question": "Estou a pensar comprar um cavalo lusitano e gostava de saber onde posso consultar o stud-book da raça.",
+    "candidate_answer": "Neste site: https://www.cavalo-lusitano.com/pt"
+  },
+  {
+    "question": "Estou a pensar comprar um cavalo lusitano e gostava de saber onde posso consultar o stud-book da raça.",
+    "candidate_answer": "Neste site: https://www.dgav.pt"
+  },
+  {
+    "question": "Tenho vários ninhos de aves nos beirais, a sujar tudo, mas disseram-me que preciso de autorização para os remover. O que tenho de fazer para ter autorização?",
+    "candidate_answer": "Justificação do pedido com base nas disposições legais;     Atestar a propriedade ou a responsabilidade pela estrutura onde estão localizados os ninhos.      Se for condomínio:     Ata de assembleia de condóminos com a respectiva intenção."
+  },
+  {
+    "question": "Tenho vários ninhos de aves nos beirais, a sujar tudo, mas disseram-me que preciso de autorização para os remover. O que tenho de fazer para ter autorização?",
+    "candidate_answer": "Pedido submetido através de formulário próprio;     Identificação da espécie de ave e localização dos ninhos;     Comprovativo de avaliação ambiental emitido por entidade competente."
+  },
+  {
+    "question": "Tenho uma empresa de pesca e preciso de um certificado para poder exportar as minhas capturas. Onde posso obtê-lo?",
+    "candidate_answer": "Através dos documentos e requisitos constantes no artigo 15º do Regulamento (CE) n.º 1005/2008  http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=CONSLEG:2008R1005:20110309:PT:PDF "
+  },
+  {
+    "question": "Tenho uma empresa de pesca e preciso de um certificado para poder exportar as minhas capturas. Onde posso obtê-lo?",
+    "candidate_answer": "Através dos documentos e requisitos constantes no artigo 12º do Regulamento (CE) n.º 1005/2008."
+  },
+  {
+    "question": "Tenho uns entulhos de obras para deitar fora e disseram-me que preciso de uma licença para os levar para o aterro. Quanto custa essa licença?",
+    "candidate_answer": "20.000€."
+  },
+  {
+    "question": "Tenho uns entulhos de obras para deitar fora e disseram-me que preciso de uma licença para os levar para o aterro. Quanto custa essa licença?",
+    "candidate_answer": "25.000€."
+  },
+  {
+    "question": "Sou pescador e gostava de saber durante quanto tempo é válida a licença para pesca profissional à linha apeada no Parque Natural do Sudoeste Alentejano e Costa Vicentina.",
+    "candidate_answer": "Um ano."
+  },
+  {
+    "question": "Sou pescador e gostava de saber durante quanto tempo é válida a licença para pesca profissional à linha apeada no Parque Natural do Sudoeste Alentejano e Costa Vicentina.",
+    "candidate_answer": "Dois anos."
+  },
+  {
+    "question": "Estou a pensar começar a criar abelhas e preciso de saber a quem me dirigir para fazer o registo apícola e declarar a existência das colmeias.",
+    "candidate_answer": "Direção-Geral de Alimentação e Veterinária"
+  },
+  {
+    "question": "Estou a pensar começar a criar abelhas e preciso de saber a quem me dirigir para fazer o registo apícola e declarar a existência das colmeias.",
+    "candidate_answer": "Instituto de Financiamento da Agricultura e Pescas"
+  },
+  {
+    "question": "Estava na rua quando notei uma fuga de água. Como posso comunicar à EPAL a rotura de um cano?",
+    "candidate_answer": "Através da Internet ou por telefone: http://www.epal.pt/EPAL/menu/epal/quem-somos/contactos"
+  },
+  {
+    "question": "Estava na rua quando notei uma fuga de água. Como posso comunicar à EPAL a rotura de um cano?",
+    "candidate_answer": "Através da Internet ou por telefone, sendo obrigatório indicar o número de contrato de abastecimento."
+  },
+  {
+    "question": "A casa onde vivo já está a ficar pequena para a minha família. Como é que me posso candidatar a uma habitação do IHRU?",
+    "candidate_answer": "Os interessados em candidatar-se a uma habitação social, propriedade do IHRU, devem preencher, e submeter, o formulário disponibilizado no Portal da Habitação. Neste formulário são recolhidas diversas informações para análise. O pedido é válido por 1 ano, findo o qual o cidadão deverá renovar o pedido se mantiver interesse."
+  },
+  {
+    "question": "A casa onde vivo já está a ficar pequena para a minha família. Como é que me posso candidatar a uma habitação do IHRU?",
+    "candidate_answer": "Os interessados em candidatar-se a uma habitação social, propriedade do IHRU, devem preencher, e submeter, o formulário disponibilizado na Segurança Social Direta. Neste formulário são recolhidas diversas informações para análise. O pedido é válido por 1 ano, findo o qual o cidadão deverá renovar o pedido se mantiver interesse."
+  },
+  {
+    "question": "Estou a pensar abrir um negócio de Alojamento Local, mas não sei por onde começar. Onde posso obter informações sobre o registo?",
+    "candidate_answer": "Neste página online: https://www2.gov.pt/pt/inicio/espaco-empresa/balcao-do-empreendedor/alojamento-local-registo-da-atividade"
+  },
+  {
+    "question": "Estou a pensar abrir um negócio de Alojamento Local, mas não sei por onde começar. Onde posso obter informações sobre o registo?",
+    "candidate_answer": "Presencialmente, dirigindo-se aos serviços de urbanismo da Câmara Municipal da área onde o imóvel se localiza."
+  },
+  {
+    "question": "Mudei de casa e preciso de alterar a morada no meu Cartão de Cidadão. O que é preciso para fazer essa alteração online?",
+    "candidate_answer": "Para pessoas com 16 anos ou mais:      Precisa de se autenticar com Chave Móvel Digital ou Cartão de Cidadão e PIN de autenticação, leitor de cartões compatível, software para utilizar o cartão     Indicar a nova morada completa.  Para menores de 16 anos ou para uma pessoa em regime de maior acompanhado:      A pessoa que vai pedir para terceiros precisa de se autenticar com Chave Móvel Digital ou Cartão de Cidadão e PIN de autenticação, leitor de cartões compatível, software para utilizar o cartão     Indicar a nova morada completa."
+  },
+  {
+    "question": "Mudei de casa e preciso de alterar a morada no meu Cartão de Cidadão. O que é preciso para fazer essa alteração online?",
+    "candidate_answer": "Para pessoas com 18 anos ou mais:      Precisa de se autenticar com Chave Móvel Digital ou Cartão de Cidadão e PIN de autenticação, leitor de cartões compatível, software para utilizar o cartão     Indicar a nova morada completa.  Para menores de 18 anos ou para uma pessoa em regime de maior acompanhado:      A pessoa que vai pedir para terceiros precisa de se autenticar com Chave Móvel Digital ou Cartão de Cidadão e PIN de autenticação, leitor de cartões compatível, software para utilizar o cartão     Indicar a nova morada completa."
+  },
+  {
+    "question": "Quero fazer um testamento, mas não sei por onde começar. Onde posso encontrar a legislação que me pode ajudar?",
+    "candidate_answer": "Código Civil (artigos 2179.º a 2334.º).Código do Notariado (artigos 32.º, n.º 2; 48.º; 67.º; 106.º a 115.º; 164.º, n.º 1, a); 207.º)."
+  },
+  {
+    "question": "Quero fazer um testamento, mas não sei por onde começar. Onde posso encontrar a legislação que me pode ajudar?",
+    "candidate_answer": "Código do Registo Civil (artigos 2179.º a 2334.º). Código do Notariado (artigos 32.º, n.º 2; 48.º; 67.º; 106.º a 115.º; 164.º, n.º 1, a); 207.º)."
+  },
+  {
+    "question": "Preciso de uma certidão de casamento em papel, mas não sei que documentos são necessários para a pedir. Podem ajudar-me?",
+    "candidate_answer": "Não precisa de apresentar qualquer documento, exceto se for necessário provar que está isenta/o de pagar a certidão."
+  },
+  {
+    "question": "Preciso de uma certidão de casamento em papel, mas não sei que documentos são necessários para a pedir. Podem ajudar-me?",
+    "candidate_answer": "É obrigatória a apresentação do Cartão de Cidadão do requerente e o preenchimento de um requerimento em papel fornecido pelos serviços."
+  },
+  {
+    "question": "Não estou certo de quantos pontos já acumulei na minha carta de condução. Onde posso consultar esta informação?",
+    "candidate_answer": "Neste site: https://www2.gov.pt/balcao-do-condutor"
+  },
+  {
+    "question": "Não estou certo de quantos pontos já acumulei na minha carta de condução. Onde posso consultar esta informação?",
+    "candidate_answer": "A consulta deve ser efetuada no portal do IMT Online, na área reservada ao condutor."
+  },
+  {
+    "question": "Estou a tratar da compra de um imóvel e preciso de uma certidão permanente do registo predial. Quais são os documentos e requisitos necessários para a pedir?",
+    "candidate_answer": "Vai precisar de indicar:      o nome e o número de contribuinte da pessoa ou entidade que pede a certidão (NIF ou NIPC)     a morada, código postal e localidade do imóvel     o e-mail onde quer receber a certidão."
+  },
+  {
+    "question": "Estou a tratar da compra de um imóvel e preciso de uma certidão permanente do registo predial. Quais são os documentos e requisitos necessários para a pedir?",
+    "candidate_answer": "Vai precisar de indicar: o nome e o número de contribuinte da pessoa ou entidade que pede a certidão (NIF ou NIPC), a morada do imóvel e, obrigatoriamente, submeter uma autorização escrita do proprietário caso não seja o titular."
+  },
+  {
+    "question": "Estou a tentar usar a Chave Móvel Digital, mas está bloqueada. Onde a posso desbloquear?",
+    "candidate_answer": " A Chave Móvel Digital pode ser desbloqueada online no portal Autenticação.gov ou num Espaço Cidadão."
+  },
+  {
+    "question": "Estou a tentar usar a Chave Móvel Digital, mas está bloqueada. Onde a posso desbloquear?",
+    "candidate_answer": "Por motivos de segurança, o desbloqueio não pode ser efetuado online. Deve dirigir-se presencialmente a um Espaço Cidadão ou balcão do IRN para definir novos códigos."
+  },
+  {
+    "question": "Estou a planear as minhas férias e gostava de ficar num hotel do INATEL. Em que localidades é que eles têm hotéis?",
+    "candidate_answer": "Praia: Albufeira, Costa de Caparica, Foz do Arelho, Oeiras, Porto Santo     Montanha: Linhares, Piódão, Vila Ruiva     Natureza: Castelo de Vide, Cerveira, Flores, Graciosa, Santa Maria da Feira     Saúde e bem-estar: Entre-os-Rios, Luso, Manteigas, São Pedro do Sul."
+  },
+  {
+    "question": "Estou a planear as minhas férias e gostava de ficar num hotel do INATEL. Em que localidades é que eles têm hotéis?",
+    "candidate_answer": "Praia: Portimão, Nazaré, Cascais, Sesimbra. Montanha: Covilhã, Serra do Gerês. Natureza: Sintra, Douro Vinhateiro. Saúde e bem-estar: Caldas da Rainha, Vidago."
+  },
+  {
+    "question": "Sou um autor português e gostaria de publicar o meu livro no Brasil. Há alguma instituição ou programa que apoie a edição de autores portugueses no Brasil?",
+    "candidate_answer": "A Direção-Geral do Livro, dos Arquivos e das Bibliotecas (DGLAB), através de concurso anual, concede incentivos financeiros para a edição de obras de autores portugueses e de autores africanos de língua portuguesa, no Brasil. "
+  },
+  {
+    "question": "Sou um autor português e gostaria de publicar o meu livro no Brasil. Há alguma instituição ou programa que apoie a edição de autores portugueses no Brasil?",
+    "candidate_answer": "O Instituto Camões, I.P., através da sua rede externa e dos Centros Culturais, é a entidade responsável por conceder estes incentivos financeiros à edição no Brasil."
+  },
+  {
+    "question": "Gostava de consultar uns livros mas não sei onde fica a Biblioteca Digital Camões. Onde posso aceder à biblioteca?",
+    "candidate_answer": "Através da Internet: http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes.html"
+  },
+  {
+    "question": "Gostava de consultar uns livros mas não sei onde fica a Biblioteca Digital Camões. Onde posso aceder à biblioteca?",
+    "candidate_answer": "Através do portal da Biblioteca Nacional Digital (http://purl.pt), selecionando a coleção específica 'Instituto Camões'."
+  },
+  {
+    "question": "Estava a passear e encontrei uns objetos que parecem ser muito antigos. Onde devo comunicar a descoberta deste achado arqueológico?",
+    "candidate_answer": "Instituto de Gestão do Património Arquitectónico e Arqueológico (IGESPAR).  Autoridade policial que notifica o IGESPAR.  Autoridade aduaneira, que notifica o IGESPAR."
+  },
+  {
+    "question": "Estava a passear e encontrei uns objetos que parecem ser muito antigos. Onde devo comunicar a descoberta deste achado arqueológico?",
+    "candidate_answer": "Deve entregar o achado diretamente no Museu Nacional de Arqueologia (MNA) ou no museu municipal mais próximo, que emitirá um recibo de doação."
+  },
+  {
+    "question": "Vou de viagem para fora do país e gostava de saber onde é que posso pedir ajuda se tiver uma emergência.",
+    "candidate_answer": "Através de email: gab.emergencia@dgaccp.pt  No local ou por telefone:  Gabinete de Emergência Consular: http://www.portaldascomunidades.mne.pt/pt/gabinete-de-emergencia-consular-gec Postos consulares portugueses: https://portaldascomunidades.mne.gov.pt/pt/rede-consular"
+  },
+  {
+    "question": "Vou de viagem para fora do país e gostava de saber onde é que posso pedir ajuda se tiver uma emergência.",
+    "candidate_answer": "Deve contactar o Serviço de Estrangeiros e Fronteiras (SEF/AIMA), através da linha de apoio, uma vez que esta é a entidade responsável pela gestão de fronteiras e circulação de pessoas."
+  },
+  {
+    "question": "Estou a pensar em usar um nome artístico, mas disseram-me que é preciso registá-lo. Quem pode fazer esse registo?",
+    "candidate_answer": "Autores ou outros titulares originários do direito de autor, com obras anteriormente registadas."
+  },
+  {
+    "question": "Estou a pensar em usar um nome artístico, mas disseram-me que é preciso registá-lo. Quem pode fazer esse registo?",
+    "candidate_answer": "Qualquer cidadão pode efetuar o registo para efeitos de reserva de nome, mesmo que ainda não tenha obras publicadas ou registadas, bastando apresentar identificação civil."
+  },
+  {
+    "question": "Estamos a organizar uma peça de teatro para a comunidade e vamos precisar de fazer o registo e pedir a classificação etária para a sua exibição pública. Qual o custo associado a estes procedimentos?",
+    "candidate_answer": "€ 40,00."
+  },
+  {
+    "question": "Estamos a organizar uma peça de teatro para a comunidade e vamos precisar de fazer o registo e pedir a classificação etária para a sua exibição pública. Qual o custo associado a estes procedimentos?",
+    "candidate_answer": "€ 67,00."
+  },
+  {
+    "question": "A matrícula do meu filho termina este ano. Quando é que é preciso pedir a renovação da matrícula para o ensino básico?",
+    "candidate_answer": "Só precisa de fazer a renovação de matrícula, quando não é automática.  A renovação da matrícula é automática na passagem para os 2.º, 3.º, 4.º, 6.º, 8.º, 9.º e 11.º anos de escolaridade, desde que não haja transferência de escola, alteração de encarregado de educação, de curso ou necessidade de escolher disciplinas. A renovação de matrícula também é automática nos casos de reprovação."
+  },
+  {
+    "question": "A matrícula do meu filho termina este ano. Quando é que é preciso pedir a renovação da matrícula para o ensino básico?",
+    "candidate_answer": "O pedido de renovação de matrícula deve ser sempre submetido no Portal das Matrículas, todos os anos, independentemente do ano de escolaridade ou da continuidade na mesma escola."
+  },
+  {
+    "question": "A minha filha vai mudar de escola no próximo ano letivo, mas não sei como pedir a transferência. Onde posso fazer o pedido de transferência de escola, seja para uma escola pública, privada ou IPSS?",
+    "candidate_answer": "O pedido pode ser feito presencialmente na secretaria da escola do estudante ou online no Portal das Matrículas: https://www.portaldasmatriculas.edu.gov.pt/"
+  },
+  {
+    "question": "A minha filha vai mudar de escola no próximo ano letivo, mas não sei como pedir a transferência. Onde posso fazer o pedido de transferência de escola, seja para uma escola pública, privada ou IPSS?",
+    "candidate_answer": "O pedido deve ser realizado exclusivamente presencialmente na secretaria da escola de origem. O Portal das Matrículas apenas permite efetuar renovações e primeiras matrículas, não contemplando a funcionalidade de transferência."
+  },
+  {
+    "question": "O meu filho vai para o 5.º ano e quero saber se tem direito aos manuais escolares gratuitos. Quem pode receber estes vales?",
+    "candidate_answer": "Estudantes do ensino obrigatório (do 1º ao 12º ano) de escolas públicas e escolas privadas com contratos de associação."
+  },
+  {
+    "question": "O meu filho vai para o 5.º ano e quero saber se tem direito aos manuais escolares gratuitos. Quem pode receber estes vales?",
+    "candidate_answer": "Apenas estudantes do ensino obrigatório inseridos nos escalões A e B da Ação Social Escolar. Os restantes alunos devem adquirir os manuais, sendo o valor dedutível no IRS."
+  },
+  {
+    "question": "Estou a fazer uma pesquisa para o meu trabalho e preciso de consultar uns documentos no Arquivo Nacional da Torre do Tombo. Quem pode pedir para consultar estes documentos?",
+    "candidate_answer": "Qualquer cidadão com mais de 18 anos."
+  },
+  {
+    "question": "Estou a fazer uma pesquisa para o meu trabalho e preciso de consultar uns documentos no Arquivo Nacional da Torre do Tombo. Quem pode pedir para consultar estes documentos?",
+    "candidate_answer": "Qualquer cidadão de nacionalidade portuguesa com mais de 18 anos. Cidadãos estrangeiros necessitam de uma autorização especial da Direção do Arquivo."
+  },
+  {
+    "question": "Quero abrir uma empresa e ouvi dizer que há um serviço que permite fazer isso de forma muito rápida. Onde posso encontrar este serviço?",
+    "candidate_answer": "Em qualquer um dos balcões Empresa na Hora: https://justica.gov.pt/Servicos/Empresa-na-Hora/Contactos"
+  },
+  {
+    "question": "Quero abrir uma empresa e ouvi dizer que há um serviço que permite fazer isso de forma muito rápida. Onde posso encontrar este serviço?",
+    "candidate_answer": "Este serviço presencial foi descontinuado. Atualmente, a constituição de empresas é feita exclusivamente online através do portal ePortugal ('Empresa Online')."
+  },
+  {
+    "question": "Tenho andado um pouco esquecido das minhas obrigações fiscais e queria verificar se tenho alguma dívida ao Estado. Onde é que posso consultar as minhas dívidas fiscais?",
+    "candidate_answer": " ONLINE  Portal das Finanças: http://www.portaldasfinancas.gov.pt/pt/CD/menu.action?pai=27  PRESENCIAL  Nos balcões das Finanças. Nas Lojas de Cidadão ou Espaços Cidadão que disponibilizam o serviço."
+  },
+  {
+    "question": "Tenho andado um pouco esquecido das minhas obrigações fiscais e queria verificar se tenho alguma dívida ao Estado. Onde é que posso consultar as minhas dívidas fiscais?",
+    "candidate_answer": "A consulta detalhada de dívidas no Portal das Finanças é reservada exclusivamente a Contabilistas Certificados (TOC). Os contribuintes singulares apenas podem visualizar o valor global, sem acesso ao detalhe dos juros e coimas"
+  },
+  {
+    "question": "Estou a tentar perceber se uma empresa em particular tem dívidas ao Estado. Onde é que posso consultar a lista de credores do Estado?",
+    "candidate_answer": "Através da Internet: http://www.sgmf.pt/servi%C3%A7os/lista-de-credores/lista-final/"
+  },
+  {
+    "question": "Estou a tentar perceber se uma empresa em particular tem dívidas ao Estado. Onde é que posso consultar a lista de credores do Estado?",
+    "candidate_answer": "A lista de credores do Estado não é pública, por motivos de proteção de dados e sigilo comercial. Apenas os próprios credores podem consultar os seus pagamentos pendentes através da área reservada da Direção-Geral do Orçamento."
+  },
+  {
+    "question": "Estou a pensar registar uma patente, mas antes queria fazer uma pesquisa para ver se já existe algo semelhante. O que é necessário para fazer essa pesquisa?",
+    "candidate_answer": "Não existe nenhum requisito para fazer a pesquisa online."
+  },
+  {
+    "question": "Estou a pensar registar uma patente, mas antes queria fazer uma pesquisa para ver se já existe algo semelhante. O que é necessário para fazer essa pesquisa?",
+    "candidate_answer": "Para aceder à base de dados de pesquisa, é obrigatório o registo prévio de utilizador no portal do INPI e a subsequente autenticação através de Chave Móvel Digital ou Cartão de Cidadão."
+  },
+  {
+    "question": "Quero criar uma IPSS. Onde é que a posso registar?",
+    "candidate_answer": "Balcões de atendimento da Segurança Social;  Balcões das Lojas de Cidadão."
+  },
+  {
+    "question": "Quero criar uma IPSS. Onde é que a posso registar?",
+    "candidate_answer": "O registo de uma IPSS, tal como o de qualquer outra associação ou fundação, é efetuado exclusivamente nas Conservatórias do Registo Comercial (IRN), não tendo a Segurança Social competência para atos de registo."
+  },
+  {
+    "question": "A minha empresa quer começar a vender material militar. O que é preciso para ter licença para o fazer?",
+    "candidate_answer": "Para que sejam licenciadas, as empresas têm de cumprir dois requisitos:   Ter objeto social compatível  A empresa e os seus corpos sociais têm de estar credenciados no Gabinete Nacional de Segurança (GNS): https://www.gns.gov.pt/"
+  },
+  {
+    "question": "A minha empresa quer começar a vender material militar. O que é preciso para ter licença para o fazer?",
+    "candidate_answer": "Sendo uma atividade de comércio internacional, a entidade licenciadora é a Autoridade Tributária e Aduaneira, que emite as licenças de exportação mediante parecer vinculativo do Ministério da Economia."
+  },
+  {
+    "question": "Estou a pensar abrir uma empresa de segurança privada e preciso de saber o que devo fazer para obter as licenças necessárias e como funciona o processo de inspeção.",
+    "candidate_answer": " Online, através do site do Sistema Integrado de Gestão de Segurança Privada (SIGESP).  Presencialmente ou por correio - Departamento de Segurança Privada da Polícia de Segurança Pública (PSP), Rua da Artilharia 1, n.º 21, 4.º andar, 1269-003 Lisboa."
+  },
+  {
+    "question": "Estou a pensar abrir uma empresa de segurança privada e preciso de saber o que devo fazer para obter as licenças necessárias e como funciona o processo de inspeção.",
+    "candidate_answer": "O licenciamento depende da localização da sede da empresa: deve dirigir-se à PSP nas zonas urbanas ou à GNR nas zonas rurais, uma vez que a competência é partilhada entre as duas forças de segurança"
+  },
+  {
+    "question": "Vou contratar um novo funcionário para a minha empresa. Qual é o prazo para comunicar a contratação às entidades competentes?",
+    "candidate_answer": "Nas vinte e quatro horas anteriores ao início da atividade; Excecionalmente, nas vinte e quatro horas seguintes ao início da atividade, apenas nos casos de contratos de muito curta duração ou caso se trate de prestação de trabalho por turnos."
+  },
+  {
+    "question": "Vou contratar um novo funcionário para a minha empresa. Qual é o prazo para comunicar a contratação às entidades competentes?",
+    "candidate_answer": "A comunicação deve ser efetuada até ao dia 10 do mês seguinte ao do início do contrato, juntamente com a entrega da Declaração Mensal de Remunerações (DMR)."
+  },
+  {
+    "question": "Estou a tentar perceber os custos de operar um barco de pesca. Quanto custa o cartão que permite comprar gasóleo sem pagar o ISP e o IVA para embarcações de pesca profissional?",
+    "candidate_answer": "Gratuito."
+  },
+  {
+    "question": "Estou a tentar perceber os custos de operar um barco de pesca. Quanto custa o cartão que permite comprar gasóleo sem pagar o ISP e o IVA para embarcações de pesca profissional?",
+    "candidate_answer": "€ 100,00"
+  },
+  {
+    "question": "Estou a pensar abrir um salão de jogos com máquinas de diversão. A quem devo pedir a classificação dos jogos para as minhas máquinas?",
+    "candidate_answer": "Serviço de Inspeção de Jogos do Instituto do Turismo de Portugal, IP."
+  },
+  {
+    "question": "Estou a pensar abrir um salão de jogos com máquinas de diversão. A quem devo pedir a classificação dos jogos para as minhas máquinas?",
+    "candidate_answer": "A classificação dos temas deve ser requerida à Inspeção-Geral das Atividades Culturais (IGAC), tal como acontece com os videojogos e obras cinematográficas, para atribuição da respetiva classificação etária."
+  },
+  {
+    "question": "Tenho uma loja e gostava de fazer saldos. Quando é que tenho de avisar as autoridades de que os vou fazer?",
+    "candidate_answer": "Até 5 dias úteis antes de iniciar um período de saldos."
+  },
+  {
+    "question": "Tenho uma loja e gostava de fazer saldos. Quando é que tenho de avisar as autoridades de que os vou fazer?",
+    "candidate_answer": "Até 7 dias úteis antes de iniciar um período de saldos."
+  },
+  {
+    "question": "Estou a pensar abrir uma sex shop na Madeira e preciso de saber qual é o CAE que devo usar para este tipo de negócio.",
+    "candidate_answer": "47784 - Comércio a retalho de outros produtos novos, em estabelecimentos especializados, n.e."
+  },
+  {
+    "question": "Estou a pensar abrir uma sex shop na Madeira e preciso de saber qual é o CAE que devo usar para este tipo de negócio.",
+    "candidate_answer": "Na Região Autónoma da Madeira, vigora um regime específico que classifica estas empresas no CAE 93290 (Outras atividades de diversão e recreativas), uma vez que a legislação regional considera a atividade como entretenimento adulto e não apenas comércio a retalho."
+  },
+  {
+    "question": "Tenho uma empresa de passeios de barco e preciso de registá-la como operador marítimo-turístico. Onde posso fazer esse registo?",
+    "candidate_answer": "Nesta página: https://www2.gov.pt/pt/inicio/espaco-empresa/balcao-do-empreendedor/operador-maritimo-turistico-registo-de-exercicio-da-atividade"
+  },
+  {
+    "question": "Tenho uma empresa de passeios de barco e preciso de registá-la como operador marítimo-turístico. Onde posso fazer esse registo?",
+    "candidate_answer": "O registo deve ser efetuado presencialmente na Capitania do Porto local com jurisdição sobre a área onde pretende operar. A Autoridade Marítima Nacional é a única entidade competente para licenciar atividades comerciais em domínio hídrico."
+  },
+  {
+    "question": "Estou a pensar abrir um lar de idosos e preciso de saber a que entidade devo pedir a licença de funcionamento.",
+    "candidate_answer": "Instituto da Segurança Social"
+  },
+  {
+    "question": "Estou a pensar abrir um lar de idosos e preciso de saber a que entidade devo pedir a licença de funcionamento.",
+    "candidate_answer": "Atualmente, não é necessária qualquer licença de funcionamento. Ao abrigo do programa de simplificação administrativa (Simplex), o regime de licenciamento prévio foi abolido, bastando efetuar uma mera comunicação prévia de abertura no Balcão do Empreendedor."
+  },
+  {
+    "question": "A minha filha foi convidada para participar numa peça de teatro, mas disseram-me que preciso de uma autorização especial. Que documentos são necessários para pedir essa autorização?",
+    "candidate_answer": "Requerimento para participação em atividades culturais, artísticas ou publicitárias Ficha de aptidão da criança emitida pela medicina do trabalho da entidade promotora, após consulta do médico da criança. Autorização dos representantes legais da criança. Parecer de sindicato e de associação de empregadores representativos, onde consta a compatibilidade entre a participação prevista e a idade do menor."
+  },
+  {
+    "question": "A minha filha foi convidada para participar numa peça de teatro, mas disseram-me que preciso de uma autorização especial. Que documentos são necessários para pedir essa autorização?",
+    "candidate_answer": "Para além da autorização dos pais, é obrigatória a entrega da Declaração de Aproveitamento Escolar emitida pela escola. Documentos de cariz laboral, como Medicina do Trabalho ou pareceres sindicais, não se aplicam a menores, sendo ilegal submeter crianças a exames de aptidão profissional."
+  },
+  {
+    "question": "A minha autorização de residência vai caducar em breve. Quando é que a posso renovar?",
+    "candidate_answer": "O pedido de renovação de autorização de residência temporária deve ser solicitado pelos interessados até 30 dias antes de expirar a sua validade. Pode fazer este pedido a partir de 90 dias antes do fim da data de validade."
+  },
+  {
+    "question": "A minha autorização de residência vai caducar em breve. Quando é que a posso renovar?",
+    "candidate_answer": "O pedido de renovação de autorização de residência temporária deve ser solicitado pelos interessados até 60 dias antes de expirar a sua validade. Pode fazer este pedido a partir de 90 dias antes do fim da data de validade."
+  },
+  {
+    "question": "Preciso de ir ao médico, mas não tenho número de utente. O que tenho de fazer para o obter?",
+    "candidate_answer": "O número é-lhe atribuído automaticamente quando se dirigir a uma unidade pública de saúde, como um centro de saúde ou hospital, se precisar de cuidados.  Se quiser, também pode pedir o número de utente de saúde, em qualquer unidade de saúde pública, mesmo sem precisar de cuidados."
+  },
+  {
+    "question": "Preciso de ir ao médico, mas não tenho número de utente. O que tenho de fazer para o obter?",
+    "candidate_answer": "O número de utente corresponde ao Número de Identificação Fiscal (NIF). Basta apresentar o NIF em qualquer hospital para ter acesso, não existindo um número específico para a saúde."
+  },
+  {
+    "question": "Cheguei há pouco tempo a Portugal e preciso de um NISS. Como posso pedir o Número de Identificação da Segurança Social online, sendo estrangeiro?",
+    "candidate_answer": "Neste formulário online: http://www.seg-social.pt/pedido-de-formulario-niss-cidadao-estrangeiro"
+  },
+  {
+    "question": "Cheguei há pouco tempo a Portugal e preciso de um NISS. Como posso pedir o Número de Identificação da Segurança Social online, sendo estrangeiro?",
+    "candidate_answer": "O pedido online não pode ser efetuado pelo próprio cidadão estrangeiro. O NISS deve ser solicitado obrigatoriamente pela entidade empregadora através da Segurança Social Direta, no momento da admissão do trabalhador."
+  },
+  {
+    "question": "A minha avó era portuguesa e gostava de saber se tenho direito à nacionalidade. Como posso fazer o pedido?",
+    "candidate_answer": " Online:  O pedido de nacionalidade está disponível online para pedidos feitos por um/a advogada/o ou solicitador/a nesta página: https://nacionalidadeonline.justica.gov.pt/Account/Login  Ao balcão:  O pedido de nacionalidade portuguesa é feito presencialmente, num dos seguintes locais:      no balcão de atendimento do Instituto dos Registos e Notariado no Centro Nacional de Apoio à Integração de Migrantes (CNAIM) de Lisboa ou do Porto     nos Espaços Registos de Lisboa, na Avenida Fontes Pereira de Melo, no Campus da Justiça e em Benfica     nos Registos Centrais de Lisboa     num Balcão Nacionalidade     na Loja de Cidadão de Odivelas     nas Conservatórias do Registo Civil     no Consulado português da área da residência.  Por correio:  O pedido de nacionalidade pode ser feito por correio, enviando este formulário preenchido: https://irn.justica.gov.pt/Impressos-e-Modelos. O pedido deve ser enviado para a Conservatória dos Registos Centrais, na Rua Rodrigo da Fonseca, 202, 1099-033 Lisboa."
+  },
+  {
+    "question": "A minha avó era portuguesa e gostava de saber se tenho direito à nacionalidade. Como posso fazer o pedido?",
+    "candidate_answer": "O pedido apenas pode ser efetuado presencialmente em território nacional. Os consulados portugueses não têm competência para iniciar processos de nacionalidade, devendo os cidadãos residentes no estrangeiro deslocar-se a Portugal ou nomear um representante legal cá."
+  },
+  {
+    "question": "Fiquei a saber que existem cursos de português para quem não tem português como língua materna. Quem pode frequentar este tipo de curso?",
+    "candidate_answer": "Português Língua Não Materna é para estudantes do ensino básico e secundário que se inscrevem pela primeira vez no sistema educativo português e cuja língua materna não seja o português ou que não tenham tido português como língua de escolarização."
+  },
+  {
+    "question": "Fiquei a saber que existem cursos de português para quem não tem português como língua materna. Quem pode frequentar este tipo de curso?",
+    "candidate_answer": "A disciplina de PLNM apenas é ativada após o aluno ter reprovado um ano letivo por falta de conhecimentos linguísticos. No primeiro ano de matrícula, a política é de 'imersão total', sendo obrigatória a frequência exclusiva do Português regular (Língua Materna)."
+  },
+  {
+    "question": "Estava a tentar ajudar um amigo estrangeiro com um problema, mas ele não percebia o que o que lhe estava a ser dito. Lembrei-me que existe um serviço de tradução telefónica para migrantes. Como é que se usa?",
+    "candidate_answer": "O serviço está disponível, sem custos para as entidades e/ou utilizadores, todos os dias úteis, entre as 9h e as 19h, através da Linha de Apoio a Migrantes      808 257 257 - se ligar a partir da rede fixa, custo de chamada local     218 106 191 - se ligar a partir da rede móvel"
+  },
+  {
+    "question": "Estava a tentar ajudar um amigo estrangeiro com um problema, mas ele não percebia o que o que lhe estava a ser dito. Lembrei-me que existe um serviço de tradução telefónica para migrantes. Como é que se usa?",
+    "candidate_answer": "A linha telefónica foi descontinuada e substituída pela aplicação 'Tradutor Migrante'. O apoio é agora prestado exclusivamente via chat com recurso a inteligência artificial, não existindo atendimento humano telefónico."
+  },
+  {
+    "question": "O meu pai faleceu e preciso de tratar da herança. Quem pode fazer a habilitação de herdeiros, a partilha e o registo dos bens?",
+    "candidate_answer": "Pelo cabeça-de-casal da herança, pelo representante legal do cabeça-de-casal ou por mandatário do cabeça-de-casal."
+  },
+  {
+    "question": "O meu pai faleceu e preciso de tratar da herança. Quem pode fazer a habilitação de herdeiros, a partilha e o registo dos bens?",
+    "candidate_answer": "Estes atos são de prática exclusiva de Advogados ou Solicitadores. Devido à complexidade jurídica, o cabeça-de-casal não pode, a título particular, instruir o processo de Habilitação e Registo sem representação forense."
+  },
+  {
+    "question": "A minha namorada e eu somos portugueses e queremos casar-nos no estrangeiro. Onde é que nos podemos casar?",
+    "candidate_answer": "Num posto consular português."
+  },
+  {
+    "question": "A minha namorada e eu somos portugueses e queremos casar-nos no estrangeiro. Onde é que nos podemos casar?",
+    "candidate_answer": "Nos postos consulares apenas é possível celebrar casamentos católicos, ao abrigo da Concordata. O casamento civil deve ser tratado nas autoridades locais."
+  },
+  {
+    "question": "Fiquei desempregado e não tenho dinheiro para pagar a um advogado. Tenho direito a apoio jurídico gratuito?",
+    "candidate_answer": "A proteção jurídica é um direito das pessoas e das entidades sem fins lucrativos que não tenham condições para pagar as despesas associadas com processos judiciais (nos tribunais), em caso de despedimento, divórcio, despejo, penhoras, etc., ou extrajudiciais (fora dos tribunais), no caso de divórcio por mútuo consentimento."
+  },
+  {
+    "question": "Fiquei desempregado e não tenho dinheiro para pagar a um advogado. Tenho direito a apoio jurídico gratuito?",
+    "candidate_answer": "O direito à proteção jurídica é exclusivo de pessoas singulares (cidadãos). As entidades sem fins lucrativos, por possuírem personalidade jurídica e património próprios, estão legalmente excluídas deste apoio."
+  },
+  {
+    "question": "A minha mulher teve o bebé há pouco tempo e eu queria saber qual é o prazo que tenho para registar o nascimento do nosso filho.",
+    "candidate_answer": "Quando a criança nasce em Portugal, o registo deve ser feito tão breve quanto possível na maternidade ou hospital. Caso não seja possível, o nascimento deve ser registado nos 20 dias após o nascimento.  Quando a criança nasceu num país da União Europeia ou no Reino Unido, o registo online pode ser desde que o nascimento tenha ocorrido há menos de um ano. No entanto, é recomendado que o registo seja feito assim que possível.  O registo de crianças nascidas há mais de um ano, no estrangeiro, só pode ser feito presencialmente, pois obedece a regras especiais que têm de ser verificadas pelos serviços de registo."
+  },
+  {
+    "question": "A minha mulher teve o bebé há pouco tempo e eu queria saber qual é o prazo que tenho para registar o nascimento do nosso filho.",
+    "candidate_answer": "O registo deve ser efetuado obrigatoriamente nas primeiras 48 horas de vida, sob pena de pagamento de coima. Após este prazo, o registo apenas pode ser realizado mediante autorização judicial no Tribunal de Família."
+  },
+  {
+    "question": "O meu casamento acabou e agora preciso de tratar da partilha dos bens. Que documentos preciso de reunir e quais são os requisitos para dar início a este processo?",
+    "candidate_answer": "Lista dos bens do casal e do valor de cada bem. Acordo sobre a forma como querem dividir os bens. Certidão da convenção antenupcial, se a convenção antenupcial não tiver sido feita numa conservatória e o regime de bens escolhido não constar do registo de casamento."
+  },
+  {
+    "question": "O meu casamento acabou e agora preciso de tratar da partilha dos bens. Que documentos preciso de reunir e quais são os requisitos para dar início a este processo?",
+    "candidate_answer": "Não é permitida a atribuição de valores pelos interessados. É obrigatória a apresentação de Relatório de Avaliação Pericial para todos os bens imóveis e móveis sujeitos a registo, elaborado por perito da lista oficial do Ministério da Justiça."
+  },
+  {
+    "question": "A minha ex-mulher e eu chegámos a um acordo sobre a guarda dos nossos filhos. Podemos registar este acordo sobre as responsabilidades parentais no registo civil?",
+    "candidate_answer": "Em caso de separação de facto e de dissolução da união de facto, bem como entre pais não casados entre si, nem unidos de facto."
+  },
+  {
+    "question": "A minha ex-mulher e eu chegámos a um acordo sobre a guarda dos nossos filhos. Podemos registar este acordo sobre as responsabilidades parentais no registo civil?",
+    "candidate_answer": "Não é possível fazer o pedido em caso de separação de facto. Os pais devem aguardar até que o divórcio esteja concluído para iniciar o processo de regulação parental."
+  },
+  {
+    "question": "O meu pai faleceu e preciso de tratar da papelada. Onde é que se declara o óbito?",
+    "candidate_answer": "Nas conservatórias do registo civil ou nos Espaços dos Registos do IRN."
+  },
+  {
+    "question": "O meu pai faleceu e preciso de tratar da papelada. Onde é que se declara o óbito?",
+    "candidate_answer": "Não é necessário declarar o óbito presencialmente. A comunicação é automática e direta entre o médico que verifica o óbito e o sistema do Ministério da Justiça (Plataforma e-Óbito), dispensando os familiares de qualquer deslocação à Conservatória."
+  },
+  {
+    "question": "Estou a tentar perceber se tenho direito à isenção de taxas moderadoras no SNS. Em que condições tenho acesso a esse benefício?",
+    "candidate_answer": "Considera-se que um agregado familiar está em situação de insuficiência económica quando o seu rendimento médio mensal, dividido pelo número de pessoas a que cabe a direção do agregado familiar, não ultrapassa os 783,75€.  O valor limite muda todos os anos, porque corresponde a 1,5 vezes o valor do indexante de apoios sociais (IAS). O valor do IAS em 2025 é de 522,50 €.  Considera-se que pertencem ao mesmo agregado familiar as pessoas incluídas na mesma declaração de IRS, e que a direção do agregado familiar cabe às pessoas que sustentam aquele agregado familiar (por exemplo, a mãe e o pai de uma família)."
+  },
+  {
+    "question": "Estou a tentar perceber se tenho direito à isenção de taxas moderadoras no SNS. Em que condições tenho acesso a esse benefício?",
+    "candidate_answer": "Apenas é considerada a insuficiência económica se o agregado familiar comprovar também que não possui bens imóveis (casa própria) nem depósitos bancários superiores a 5.000€. Quem tem casa própria, mesmo com baixos rendimentos, fica excluído."
+  },
+  {
+    "question": "O meu avô é antigo combatente e quer que o tempo de serviço militar lhe conte para a reforma. Onde é que ele pode fazer esse pedido?",
+    "candidate_answer": "Através da Internet:  https://www.dgrdn.gov.pt/areas-de-atuacao/dssmas/antigos-combatentes/informacoes-gerais-ac.html   No local:      Centros de Recrutamento Militar dos Ramos das Forças Armadas (FA)     Centro de atendimento aos Antigos Combatentes     Liga dos Combatentes     Embaixadas e Consulados.  Por correspondência:      Por correio registado com aviso de receção para o Departamento de Apoio aos Antigos Combatentes do Ministério da Defesa."
+  },
+  {
+    "question": "O meu avô é antigo combatente e quer que o tempo de serviço militar lhe conte para a reforma. Onde é que ele pode fazer esse pedido?",
+    "candidate_answer": "O pedido deve ser realizado exclusivamente junto do Centro Nacional de Pensões (Segurança Social). As estruturas militares (Centros de Recrutamento ou Liga dos Combatentes) não têm competência administrativa para averbar tempo para efeitos de reforma, devendo o processo ser tratado apenas no momento do pedido da pensão."
+  },
+  {
+    "question": "Vou de férias este verão e gostava de saber como funciona o programa da PSP de vigilância de residências.",
+    "candidate_answer": "A PSP procede à observação das condições exteriores da residência para se certificar que esta não foi alvo de um ato criminoso. Em caso de anomalia, é contactado o proprietário ou o seu representante."
+  },
+  {
+    "question": "Vou de férias este verão e gostava de saber como funciona o programa da PSP de vigilância de residências.",
+    "candidate_answer": "Trata-se de um serviço pago, com uma taxa diária de vigilância, que deve ser liquidada antecipadamente na Tesouraria da PSP ou via Multibanco no momento da inscrição."
+  },
+  {
+    "question": "Estou a pensar em recorrer ao Sistema de Mediação Familiar, mas não sei bem como funciona. Qual é o objetivo deste sistema?",
+    "candidate_answer": "O Sistema de Mediação Familiar (SMF) permite resolver conflitos familiares sem recorrer a um tribunal.  Entre outros, podem ser mediados conflitos relacionados com separação, divórcio, responsabilidades parentais e morada de família."
+  },
+  {
+    "question": "Estou a pensar em recorrer ao Sistema de Mediação Familiar, mas não sei bem como funciona. Qual é o objetivo deste sistema?",
+    "candidate_answer": "É um tribunal arbitral onde o mediador, após ouvir as partes, dita uma sentença vinculativa que resolve o conflito. Ao contrário do tribunal comum, aqui as partes não podem recorrer da decisão tomada pelo mediador."
+  },
+  {
+    "question": "Fui chamado para o serviço militar, mas por motivos de consciência não o quero fazer. Que documentos preciso de apresentar para pedir a objeção de consciência?",
+    "candidate_answer": "Declaração de objeção de consciência. Declarações abonatórias de três cidadãos de pleno uso dos seus direitos civis e políticos, confirmativas do comportamento do declarante, acompanhadas de fotocópia dos respetivos documentos de identificação (Bilhete de Identidade/Cartão de Cidadão); Certidão de nascimento do declarante. Certificado do registo criminal do declarante. Fotocópia do documento de identificação do declarante (Bilhete de Identidade/Cartão de Cidadão)."
+  },
+  {
+    "question": "Fui chamado para o serviço militar, mas por motivos de consciência não o quero fazer. Que documentos preciso de apresentar para pedir a objeção de consciência?",
+    "candidate_answer": "O documento principal é um Relatório de Psiquiatria ou Psicologia Clínica, emitido por médico do SNS, atestando a aversão do requerente à violência. O estatuto é concedido com base em critérios de saúde mental (inaptidão) e não por declaração de princípios."
+  },
+  {
+    "question": "Vou viajar para o estrangeiro e queria saber qual é a validade do Cartão Europeu de Seguro de Doença.",
+    "candidate_answer": "3 anos."
+  },
+  {
+    "question": "Vou viajar para o estrangeiro e queria saber qual é a validade do Cartão Europeu de Seguro de Doença.",
+    "candidate_answer": "5 anos."
+  },
+  {
+    "question": "A minha mãe precisa de cuidados permanentes e eu sou a única pessoa que a pode ajudar. Gostaria de saber qual é a entidade responsável por reconhecer o estatuto de cuidador informal.",
+    "candidate_answer": "Instituto da Segurança Social"
+  },
+  {
+    "question": "A minha mãe precisa de cuidados permanentes e eu sou a única pessoa que a pode ajudar. Gostaria de saber qual é a entidade responsável por reconhecer o estatuto de cuidador informal.",
+    "candidate_answer": "A competência foi delegada nas Câmaras Municipais (Serviços de Ação Social)."
+  },
+  {
+    "question": "Fiquei doente e não consigo trabalhar. O que é o subsídio de doença da Segurança Social?",
+    "candidate_answer": "Prestação atribuída ao beneficiário para compensar a perda de remuneração, resultante do impedimento temporário para o trabalho, por motivo de doença."
+  },
+  {
+    "question": "Fiquei doente e não consigo trabalhar. O que é o subsídio de doença da Segurança Social?",
+    "candidate_answer": "É uma prestação atribuída em situações de incapacidade permanente e irreversível para o trabalho. Para doenças temporárias (curta duração), não existe subsídio, mantendo-se o trabalhador apenas com o contrato suspenso."
+  },
+  {
+    "question": "O meu filho e a minha nora trabalham em horários muito complicados e gostariam que eu tomasse conta do meu neto, mas preciso de apoio financeiro para o fazer. A Segurança Social pode atribuir-me um subsídio?",
+    "candidate_answer": "É uma prestação em dinheiro, atribuída aos avós ou equiparados, nas seguintes situações:  Por nascimento de neto, que viva com eles em comunhão de mesa e habitação, e seja filho de adolescente menor de 16 anos. É atribuído durante um período até 30 dias seguidos, a gozar de modo exclusivo por um dos avós, ou partilhado entre eles. Na situação de não partilha de licença pelos avós, o subsídio é atribuído se o outro avô trabalhar, não puder prestar assistência ao neto e não pedir o subsídio pelo mesmo motivo;  Para assistência inadiável e imprescindível a neto menor; ou neto com deficiência ou doença crónica (independentemente da idade) por motivo de doença ou acidente, se os pais trabalharem, não puderem prestar assistência ao filho e não pedirem o respetivo subsídio pelo mesmo motivo e, ainda, se nenhum outro familiar, do mesmo grau, faltar ao trabalho para prestar aquela assistência. Nestes casos, o subsídio é concedido pelo número de dias não gozados pelos pais para assistência a filho.  Este subsídio é atribuído desde que se verifiquem as seguintes condições relativas ao requerente:      Tenha seis meses civis com registo de remunerações, no primeiro dia de impedimento para o trabalho (prazo de garantia). Para a contagem dos seis meses, consideram-se os períodos de registo de remunerações noutros regimes de proteção social, nacionais ou estrangeiros, que abranjam esta modalidade de proteção, incluindo o da função pública;     Tenha gozado as respectivas licenças, previstas no Código do Trabalho, no caso dos trabalhadores por conta de outrem, ou períodos equivalentes nos restantes casos. "
+  },
+  {
+    "question": "O meu filho e a minha nora trabalham em horários muito complicados e gostariam que eu tomasse conta do meu neto, mas preciso de apoio financeiro para o fazer. A Segurança Social pode atribuir-me um subsídio?",
+    "candidate_answer": "É uma prestação em dinheiro, atribuída aos avós ou equiparados, nas seguintes situações:  Por nascimento de neto, que viva com eles em comunhão de mesa e habitação, e seja filho de adolescente menor de 18 anos. É atribuído durante um período até 30 dias seguidos, a gozar de modo exclusivo por um dos avós, ou partilhado entre eles. Na situação de não partilha de licença pelos avós, o subsídio é atribuído se o outro avô trabalhar, não puder prestar assistência ao neto e não pedir o subsídio pelo mesmo motivo;  Para assistência inadiável e imprescindível a neto menor; ou neto com deficiência ou doença crónica (independentemente da idade) por motivo de doença ou acidente, se os pais trabalharem, não puderem prestar assistência ao filho e não pedirem o respetivo subsídio pelo mesmo motivo e, ainda, se nenhum outro familiar, do mesmo grau, faltar ao trabalho para prestar aquela assistência. Nestes casos, o subsídio é concedido pelo número de dias não gozados pelos pais para assistência a filho.  Este subsídio é atribuído desde que se verifiquem as seguintes condições relativas ao requerente:      Tenha seis meses civis com registo de remunerações, no primeiro dia de impedimento para o trabalho (prazo de garantia). Para a contagem dos seis meses, consideram-se os períodos de registo de remunerações noutros regimes de proteção social, nacionais ou estrangeiros, que abranjam esta modalidade de proteção, incluindo o da função pública;     Tenha gozado as respectivas licenças, previstas no Código do Trabalho, no caso dos trabalhadores por conta de outrem, ou períodos equivalentes nos restantes casos. "
+  },
+  {
+    "question": "Preciso de um medicamento que está em falta na farmácia. Onde posso consultar online se há stock noutros locais?",
+    "candidate_answer": "Nesta página online: https://www.infarmed.pt/web/infarmed/gestao-da-disponibilidade-do-medicamento"
+  },
+  {
+    "question": "Preciso de um medicamento que está em falta na farmácia. Onde posso consultar online se há stock noutros locais?",
+    "candidate_answer": "A base de dados de medicamentos esgotados é de acesso reservado a médicos e farmacêuticos. Por motivos de saúde pública e para evitar o açambarcamento, os utentes não têm acesso online a esta informação, devendo informar-se presencialmente na farmácia."
+  },
+  {
+    "question": "O meu filho foi diagnosticado com uma doença crónica e preciso de faltar ao trabalho com regularidade para o acompanhar às consultas e tratamentos. Quando posso pedir o subsídio para assistência a filho com doença crónica?",
+    "candidate_answer": "No prazo de seis meses a contar do primeiro dia em que não trabalhou para prestar assistência. Caso entregue o requerimento depois desse prazo, mas ainda durante o período em que teria direito a receber o subsídio, os dias de atraso não serão pagos. "
+  },
+  {
+    "question": "O meu filho foi diagnosticado com uma doença crónica e preciso de faltar ao trabalho com regularidade para o acompanhar às consultas e tratamentos. Quando posso pedir o subsídio para assistência a filho com doença crónica?",
+    "candidate_answer": "No prazo de oito meses a contar do primeiro dia em que não trabalhou para prestar assistência. Caso entregue o requerimento depois desse prazo, mas ainda durante o período em que teria direito a receber o subsídio, os dias de atraso não serão pagos. "
+  },
+  {
+    "question": "Estou desempregado e preciso de ajuda para encontrar um novo trabalho. Onde posso procurar apoio para conseguir um emprego?",
+    "candidate_answer": "Nos balcões do Instituto do Emprego e Formação Profissional (IEFP), e nesta sua página online: https://www.iefp.pt/apoios-emprego "
+  },
+  {
+    "question": "Estou desempregado e preciso de ajuda para encontrar um novo trabalho. Onde posso procurar apoio para conseguir um emprego?",
+    "candidate_answer": "O Estado não fornece apoio direto na procura de emprego. O cidadão deve inscrever-se obrigatoriamente em Agências de Trabalho Temporário ou empresas de recrutamento privadas. O papel do IEFP resume-se a processar o subsídio de desemprego, sem intervenção na colocação de trabalhadores."
+  },
+  {
+    "question": "A reforma aproxima-se e, com ela, a dúvida sobre se terei direito a uma pensão de velhice. Quem é que tem direito a receber esta pensão?",
+    "candidate_answer": "Têm direito à pensão de velhice as pessoas beneficiárias da Segurança Social que reúnam, à data do requerimento, as seguintes condições:      idade normal de acesso à pensão - 66 anos e 7 meses em 2025     15 anos civis de registo de remunerações, no mínimo, seguidos ou não     144 meses com registo de remunerações, no caso de ser abrangida/o pelo Seguro Social Voluntário (SSV).  Se tiver idade inferior à indicada, pode ter direito à pensão de velhice antecipada nas seguintes situações:      por desemprego de longa duração     pelo regime de flexibilização da idade     por carreiras muito longas     pelo exercício de atividade em determinadas profissões (regimes especiais).  Para mais informações sobre as modalidades disponíveis de reforma antecipada, consulte o portal da Segurança Social: http://www.seg-social.pt/pensao-de-velhice  Notar que a pensão de velhice é diferente da pensão social de velhice, sobre a qual se encontra informação em http://www.seg-social.pt/pensao-de-velhice  "
+  },
+  {
+    "question": "A reforma aproxima-se e, com ela, a dúvida sobre se terei direito a uma pensão de velhice. Quem é que tem direito a receber esta pensão?",
+    "candidate_answer": "A idade de acesso é fixa nos 66 anos e 7 meses. Todas as modalidades de reforma antecipada foram revogadas em 2026. Não existem exceções para desemprego de longa duração ou carreiras muito longas; todos devem aguardar pela idade legal."
+  },
+  {
+    "question": "Estou desempregado e gostava de saber quais são os requisitos para pedir o subsídio social de desemprego.",
+    "candidate_answer": "90 dias depois da data em que ficou em situação de desemprego para apresentar os documentos nos serviços da Segurança Social. Se se entregar pedido depois dos 90 dias, o tempo de atribuição do subsídio será reduzido pelo tempo correspondente ao atraso."
+  },
+  {
+    "question": "Estou desempregado e gostava de saber quais são os requisitos para pedir o subsídio social de desemprego.",
+    "candidate_answer": "120 dias depois da data em que ficou em situação de desemprego para apresentar os documentos nos serviços da Segurança Social. Se se entregar pedido depois dos 120 dias, o tempo de atribuição do subsídio será reduzido pelo tempo correspondente ao atraso."
+  },
+  {
+    "question": "A minha mãe vai começar a frequentar um Centro de Dia. Quanto é que será o custo deste serviço?",
+    "candidate_answer": "Um valor que é calculado com base no rendimentos da família do idoso."
+  },
+  {
+    "question": "A minha mãe vai começar a frequentar um Centro de Dia. Quanto é que será o custo deste serviço?",
+    "candidate_answer": "Existe uma taxa fixa mensal (taxa moderadora) definida pelo Governo, igual para todos os utentes. O sistema de cálculo percentual com base nos rendimentos foi abolido para simplificar a gestão das IPSS."
+  },
+  {
+    "question": "Sou trabalhador independente e ouvi dizer que há isenções de contribuições para a Segurança Social. Onde posso consultar a legislação acerca disto?",
+    "candidate_answer": "Decreto Regulamentar n.º 1-A/2011, de 3 de janeiro na sua redação atual, o qual regulamenta a Lei n.º 110/2009, de 16 de setembro, a qual aprova o Código dos Regimes Contributivos do Sistema Previdencial de Segurança Social. "
+  },
+  {
+    "question": "Sou trabalhador independente e ouvi dizer que há isenções de contribuições para a Segurança Social. Onde posso consultar a legislação acerca disto?",
+    "candidate_answer": "A legislação aplicável é o Código do IRS e o Código do IVA (Artigo 53.º). A Segurança Social não possui regulamentação própria para isenções, aplicando-se automaticamente o regime fiscal: se o trabalhador estiver isento de IVA nas Finanças, fica automaticamente dispensado de contribuições."
+  },
+  {
+    "question": "Tive um problema com a minha seguradora e quero apresentar uma reclamação. Onde posso fazê-lo?",
+    "candidate_answer": "Através da Internet: https://consumidor.asf.com.pt/PedidosSite/triagem-rec. Nos locais de atendimento da ASF: Av. da República, 76 1600-205 Lisboa. A ASF assegura o atendimento presencial por marcação, o qual deverá ser solicitado através da Linha Informativa — 217 983 983, nos dias úteis entre as 9h00 e as 16h00. "
+  },
+  {
+    "question": "Tive um problema com a minha seguradora e quero apresentar uma reclamação. Onde posso fazê-lo?",
+    "candidate_answer": "O atendimento presencial na Av. da República foi encerrado permanentemente. O canal de reclamação é exclusivamente digital, não existindo linha telefónica de apoio ou possibilidade de marcação de reunião física."
+  },
+  {
+    "question": "Gostaria de mudar de carreira, mas preciso de formação. Onde posso procurar cursos de formação profissional?",
+    "candidate_answer": "Nesta página: https://www2.gov.pt/pt/servicos/procurar-formacao-profissional"
+  },
+  {
+    "question": "Gostaria de mudar de carreira, mas preciso de formação. Onde posso procurar cursos de formação profissional?",
+    "candidate_answer": "A formação profissional é da competência exclusiva das Escolas Secundárias e Profissionais (Ministério da Educação). O site gov.pt não agrega estas ofertas, que devem ser consultadas diretamente no portal de cada escola."
+  },
+  {
+    "question": "O meu pai está a ficar com a saúde muito debilitada e não sei se vai conseguir continuar a trabalhar. Qual é o objetivo da proteção especial na invalidez?",
+    "candidate_answer": "A proteção especial na invalidez tem como objetivo proteger o beneficiário em situação de incapacidade permanente para o trabalho, com prognóstico de evolução rápida para uma situação de perda de autonomia com impacto negativo para a profissão, originada por determinadas doenças."
+  },
+  {
+    "question": "O meu pai está a ficar com a saúde muito debilitada e não sei se vai conseguir continuar a trabalhar. Qual é o objetivo da proteção especial na invalidez?",
+    "candidate_answer": "O objetivo é proteger beneficiários em situação de carência económica extrema. O critério de atribuição não é a patologia clínica ou a sua evolução, mas sim a insuficiência de recursos financeiros do agregado familiar para fazer face às despesas de saúde."
+  },
+  {
+    "question": "Tenho um jovem a trabalhar na minha empresa durante as férias escolares. Qual é o prazo para comunicar o vínculo de trabalho?",
+    "candidate_answer": "A entidade empregadora deve comunicar que vai contratar um/a trabalhador/a jovem que está em férias escolares 15 dias antes do início do contrato de trabalho."
+  },
+  {
+    "question": "Tenho um jovem a trabalhar na minha empresa durante as férias escolares. Qual é o prazo para comunicar o vínculo de trabalho?",
+    "candidate_answer": "A entidade empregadora deve comunicar que vai contratar um/a trabalhador/a jovem que está em férias escolares 30 dias antes do início do contrato de trabalho."
+  },
+  {
+    "question": "Estou a pensar tirar a licença para ser motorista de táxi, mas queria saber qual é o período de validade do certificado de motorista de táxi (CMT).",
+    "candidate_answer": "5 anos."
+  },
+  {
+    "question": "Estou a pensar tirar a licença para ser motorista de táxi, mas queria saber qual é o período de validade do certificado de motorista de táxi (CMT).",
+    "candidate_answer": "7 anos."
+  },
+  {
+    "question": "Tenho uma funcionária em licença parental e o contrato a termo está a acabar. A quem é que tenho de comunicar que não o vou renovar?",
+    "candidate_answer": "À Comissão para a Igualdade no Trabalho e no Emprego (CITE):  https://www2.gov.pt/entidades/comissao-para-a-igualdade-no-trabalho-e-no-emprego"
+  },
+  {
+    "question": "Tenho uma funcionária em licença parental e o contrato a termo está a acabar. A quem é que tenho de comunicar que não o vou renovar?",
+    "candidate_answer": "A comunicação deve ser dirigida à Autoridade para as Condições do Trabalho (ACT)"
+  },
+  {
+    "question": "Fui vítima de assédio laboral no meu local de trabalho, que é uma entidade pública. Como devo fazer para apresentar queixa?",
+    "candidate_answer": "Preenchendo este formulário online: https://igf.gov.pt/informacao-assedio-em-contexto-laboral-no-setor-publico"
+  },
+  {
+    "question": "Fui vítima de assédio laboral no meu local de trabalho, que é uma entidade pública. Como devo fazer para apresentar queixa?",
+    "candidate_answer": "A participação à IGF só é considerada válida se for subscrita por um Sindicato ou Comissão de Trabalhadores. Denúncias individuais são arquivadas liminarmente por falta de legitimidade processual."
+  },
+  {
+    "question": "Estou a pensar contratar uma empregada doméstica. É obrigatório registá-la na Segurança Social?",
+    "candidate_answer": "A pessoa para quem a/o trabalhador/a do serviço doméstico trabalha (que é a sua entidade empregadora) tem de comunicar à Segurança Social que vai contratar o/a trabalhador/a."
+  },
+  {
+    "question": "Estou a pensar contratar uma empregada doméstica. É obrigatório registá-la na Segurança Social?",
+    "candidate_answer": "O empregador não tem obrigações perante a Segurança Social. O serviço doméstico é prestado em regime de trabalho independente (Recibos Verdes), cabendo inteiramente ao trabalhador a responsabilidade pela sua inscrição e pagamento de contribuições."
+  },
+  {
+    "question": "Fui assaltado e levaram-me a carteira, com os meus documentos todos lá dentro. Onde posso ir para pedir a substituição dos documentos?",
+    "candidate_answer": "O Balcão Perdi a Carteira só existe na Loja do Cidadão das Laranjeiras e é necessário agendar a marcação por telefone ou por email."
+  },
+  {
+    "question": "Fui assaltado e levaram-me a carteira, com os meus documentos todos lá dentro. Onde posso ir para pedir a substituição dos documentos?",
+    "candidate_answer": "O pedido de substituição deve ser realizado na Esquadra da PSP ou posto da GNR onde for apresentada a participação do extravio. As Lojas de Cidadão não tratam deste processo, sendo a reemissão automática após o registo policial."
+  },
+  {
+    "question": "Tenho carta de condução estrangeira e queria saber se posso conduzir em Portugal com ela, ou se tenho de a trocar por uma carta portuguesa. Quais são os países cujas cartas são aceites?",
+    "candidate_answer": "Angola, Austrália, Brasil, Cabo Verde, Canadá, Chile, Estados Unidos da América, Islândia, Israel, Japão, Moçambique, Nova Zelândia, Reino Unido, República da Coreia, São Tomé e Príncipe, Suíça e Turquia."
+  },
+  {
+    "question": "Tenho carta de condução estrangeira e queria saber se posso conduzir em Portugal com ela, ou se tenho de a trocar por uma carta portuguesa. Quais são os países cujas cartas são aceites?",
+    "candidate_answer": "Nenhum. A legislação portuguesa exige a troca de qualquer título estrangeiro para quem fixe residência em Portugal. A condução com carta estrangeira só é permitida durante os primeiros 90 dias após a entrada no país, independentemente do país de origem."
+  },
+  {
+    "question": "Estou a pensar aderir à Via Verde, mas não sei onde o posso fazer. Onde é que me posso inscrever?",
+    "candidate_answer": "A partir desta página: https://www2.gov.pt/pt/servicos/aderir-ao-servico-via-verde"
+  },
+  {
+    "question": "Estou a pensar aderir à Via Verde, mas não sei onde o posso fazer. Onde é que me posso inscrever?",
+    "candidate_answer": "O pedido deve ser efetuado junto do Instituto da Mobilidade e dos Transportes (IMT), no momento da renovação do IUC. A Via Verde passou a ser um serviço público estatal, gerido pelas Finanças e não por uma empresa privada."
+  },
+  {
+    "question": "Recebi uma multa e queria ver o meu histórico de infrações. Onde posso consultar online o meu registo de condutor?",
+    "candidate_answer": "A partir desta página: https://www2.gov.pt/pt/servicos/consultar-o-portal-das-contraordenacoes"
+  },
+  {
+    "question": "Recebi uma multa e queria ver o meu histórico de infrações. Onde posso consultar online o meu registo de condutor?",
+    "candidate_answer": "O registo de infrações rodoviárias consta do Certificado de Registo Criminal, que deve ser pedido no portal do Ministério da Justiça. As multas de trânsito são equiparadas a crimes, ficando averbadas no cadastro judicial do cidadão para todos os efeitos legais."
+  },
+  {
+    "question": "Preciso de pedir o NIF para uma pessoa. Quem pode fazer este pedido?",
+    "candidate_answer": "Qualquer pessoa nacional ou estrangeira, residente ou não residente em Portugal que tenha de cumprir obrigações fiscais (pagamento de impostos) ou pretenda exercer direitos junto da administração fiscal portuguesa."
+  },
+  {
+    "question": "Preciso de pedir o NIF para uma pessoa. Quem pode fazer este pedido?",
+    "candidate_answer": "Cidadãos estrangeiros não podem pedir o NIF diretamente. É obrigatória a contratação de um Advogado ou Solicitador para atuar como Representante Fiscal. Os balcões das Finanças não aceitam pedidos de particulares estrangeiros sem intermediário legal."
+  },
+  {
+    "question": "Quero aderir ao seguro social voluntário. Qual o formulário que devo preencher?",
+    "candidate_answer": "O formulário Mod. RV1007-DGSS: http://www.seg-social.pt/documents/10152/38813/RV_1007_DGSS/2c4bce32-a36c-4e70-bf83-3309571ac7a0"
+  },
+  {
+    "question": "Quero aderir ao seguro social voluntário. Qual o formulário que devo preencher?",
+    "candidate_answer": "O formulário correto é o Mod. RP5002-DGSS (Requerimento de Pensão de Velhice)."
+  },
+  {
+    "question": "A empresa onde trabalho não está a cumprir com as minhas horas de trabalho e está a prejudicar a minha vida familiar. Onde posso apresentar uma queixa sobre isso?",
+    "candidate_answer": "Aqui: https://www2.gov.pt/pt/servicos/realizar-queixa-sobre-a-conciliacao-da-vida-profissional-e-familiar"
+  },
+  {
+    "question": "A empresa onde trabalho não está a cumprir com as minhas horas de trabalho e está a prejudicar a minha vida familiar. Onde posso apresentar uma queixa sobre isso?",
+    "candidate_answer": "Não existe canal de queixa para este tema. A organização dos tempos de trabalho insere-se no poder de direção do empregador. Se a empresa recusar a flexibilidade, o trabalhador não tem suporte legal para reclamar, devendo tentar chegar a um acordo informal."
+  },
+  {
+    "question": "Estou prestes a terminar o meu contrato de trabalho e gostaria de saber quanto dinheiro vou receber. Existe algum sítio onde possa simular esse valor?",
+    "candidate_answer": "Neste simulador: https://portal.act.gov.pt/Pages/SimuladorCompensacaoCessacaoContratoTrabalho.aspx#"
+  },
+  {
+    "question": "Estou prestes a terminar o meu contrato de trabalho e gostaria de saber quanto dinheiro vou receber. Existe algum sítio onde possa simular esse valor?",
+    "candidate_answer": "O cálculo deve ser feito no Portal das Finanças, uma vez que a compensação está sujeita a taxas de IRS e Sobretaxa. Os simuladores laborais apenas dão valores brutos, pelo que só a Autoridade Tributária pode fornecer o valor real líquido a receber."
+  },
+  {
+    "question": "Vou começar um negócio de artesanato e não sei quando é que preciso de abrir atividade nas Finanças. Podem ajudar-me?",
+    "candidate_answer": "Se é trabalhador/a independente ou tem uma atividade extra como complemento ao seu trabalho por conta de outrem, tem de abrir atividade nas Finanças, entregando uma declaração de início de atividade."
+  },
+  {
+    "question": "Vou começar um negócio de artesanato e não sei quando é que preciso de abrir atividade nas Finanças. Podem ajudar-me?",
+    "candidate_answer": "Não é necessário abrir atividade. Para qualquer trabalho independente, basta emitir um Ato Isolado, independentemente da regularidade. A abertura de atividade foi substituída por este regime simplificado para reduzir a burocracia."
+  },
+  {
+    "question": "Casei-me no estrangeiro, mas ainda não registei o meu casamento em Portugal. O que devo fazer para o registar?",
+    "candidate_answer": "Contactar um posto consular para transcrever o assento do seu casamento para o registo civil português."
+  },
+  {
+    "question": "Casei-me no estrangeiro, mas ainda não registei o meu casamento em Portugal. O que devo fazer para o registar?",
+    "candidate_answer": "Deve comunicar a alteração ao SEF (agora AIMA), uma vez que se trata de atos ocorridos fora do território nacional. O Registo Civil não intervém em casamentos estrangeiros, sendo a atualização do estado civil competência dos serviços de fronteiras e estrangeiros."
+  },
+  {
+    "question": "Estou a viver no estrangeiro e queria votar nas próximas eleições. Onde posso fazer a minha inscrição no recenseamento eleitoral?",
+    "candidate_answer": "Postos consulares portugueses, ou em postos de recenseamento suplementares, sempre que o número de eleitores ou a sua dispersão geográfica o justificar, com áreas definidas em Portaria publicada anualmente no Diário da República."
+  },
+  {
+    "question": "Estou a viver no estrangeiro e queria votar nas próximas eleições. Onde posso fazer a minha inscrição no recenseamento eleitoral?",
+    "candidate_answer": "O pedido deve ser enviado por correio registado diretamente para o Ministério da Administração Interna em Lisboa. As embaixadas e consulados estão proibidos de aceitar inscrições ou alterações de morada para efeitos eleitorais."
+  },
+  {
+    "question": "Tenho uns documentos que foram emitidos no estrangeiro e preciso de os legalizar para que sejam válidos em Portugal. Como é que faço isso?",
+    "candidate_answer": "Através da assinatura, autenticada com selo branco consular, de agente diplomático ou consular português."
+  },
+  {
+    "question": "Tenho uns documentos que foram emitidos no estrangeiro e preciso de os legalizar para que sejam válidos em Portugal. Como é que faço isso?",
+    "candidate_answer": "Todos os documentos estrangeiros estão isentos de legalização. Ao abrigo das normas da União Europeia e da Convenção de Haia, a validade é automática para todos os países, não sendo necessário qualquer selo consular ou formalidade adicional."
+  },
+  {
+    "question": "O meu pai faleceu no estrangeiro. Quem pode registar o óbito?",
+    "candidate_answer": "Parente capaz mais próximo do falecido ou outros familiares que estiverem presentes. Cidadão ou entidade encarregada do funeral. Autoridades administrativas ou policiais, no caso de abandono do cadáver. Autoridades locais."
+  },
+  {
+    "question": "O meu pai faleceu no estrangeiro. Quem pode registar o óbito?",
+    "candidate_answer": "O registo deve ser feito pelo cabeça-de-casal diretamente na Conservatória dos Registos Centrais em Lisboa. Os postos consulares não têm competência para registar óbitos, servindo apenas para emitir autorizações de trasladação de corpo."
+  },
+  {
+    "question": "A minha ex-mulher quer levar o nosso filho para o estrangeiro, mas eu não concordo. Que documentos preciso de apresentar para impedir a saída dele do país?",
+    "candidate_answer": "Declaração, datada e assinada, com a identificação completa do menor e da pessoa com responsabilidade parental que se opõe. Cópia do documento de identificação do responsável parental. Cópia da certidão/assento de nascimento da/o menor, emitida há menos de 6 meses. Cópia do acordo/decisão sobre a regulação do exercício das responsabilidades parentais, quando exista."
+  },
+  {
+    "question": "A minha ex-mulher quer levar o nosso filho para o estrangeiro, mas eu não concordo. Que documentos preciso de apresentar para impedir a saída dele do país?",
+    "candidate_answer": "A declaração deve ser assinada por ambos os progenitores. A oposição unilateral é ilegal, pois viola a igualdade parental. Para impedir a saída, é necessário que exista acordo escrito entre o pai e a mãe nesse sentido, reconhecido notarialmente."
+  },
+  {
+    "question": "Tenho uns documentos que foram assinados por funcionários consulares portugueses e preciso que as assinaturas sejam reconhecidas. Onde posso fazer isso?",
+    "candidate_answer": "Nos serviços de atendimento ao público da Direção Geral dos Assuntos Consulares e das Comunidades Portuguesas (DGACCP) em Lisboa ou no Porto.  Lisboa - Largo das Necessidades, nº 42 - 1350-179 Lisboa      Contacto: (+ 351) 217 929 700 ou 217 929 723  Porto - Rua do Rosário nº 135 - 4050-523 Porto      Contacto: (+ 351) 223 395 450 "
+  },
+  {
+    "question": "Tenho uns documentos que foram assinados por funcionários consulares portugueses e preciso que as assinaturas sejam reconhecidas. Onde posso fazer isso?",
+    "candidate_answer": "O reconhecimento deve ser solicitado em qualquer Conservatória do Registo Civil ou Loja de Cidadão. A DGACCP trata apenas de questões diplomáticas entre Estados e não faz atendimento ao público. A validação de assinaturas, incluindo as consulares, é da competência exclusiva do IRN."
+  },
+  {
+    "question": "Estou a pensar mudar-me para o estrangeiro e gostaria de saber onde posso encontrar informações sobre o que é necessário para residir e trabalhar lá.",
+    "candidate_answer": "Nos Postos Consulares Portugueses, ou através da Internet em: https://portaldascomunidades.mne.gov.pt/pt/apoios-as-comunidades/trabalhar-e-viver-no-estrangeiro  "
+  },
+  {
+    "question": "Estou a pensar mudar-me para o estrangeiro e gostaria de saber onde posso encontrar informações sobre o que é necessário para residir e trabalhar lá.",
+    "candidate_answer": "Devido à complexidade das leis internacionais, o Governo não fornece aconselhamento direto. O cidadão deve recorrer a agências de recrutamento internacional certificadas ou advogados de imigração para obter a lista de documentos necessária para cada país."
+  },
+  {
+    "question": "Tive um problema com um voo recentemente, que foi cancelado. Como posso apresentar uma reclamação online?",
+    "candidate_answer": "Deve preencher o formulário de reclamação disponível no site da ANAC: https://formdigital.anac.pt/?fid=607CA847-9BC7-41E0-9F59-03BC71F791CB"
+  },
+  {
+    "question": "Tive um problema com um voo recentemente, que foi cancelado. Como posso apresentar uma reclamação online?",
+    "candidate_answer": "Não é possível reclamar online. A legislação obriga a que a queixa seja registada no Livro de Reclamações Físico no balcão da companhia aérea, no próprio aeroporto e no momento da ocorrência. Se o passageiro abandonar o terminal sem registar o incidente, perde o direito a qualquer indemnização."
+  },
+  {
+    "question": "A minha vizinha, que é emigrante, está a passar por dificuldades financeiras. Onde é que ela se pode candidatar a receber apoio social?",
+    "candidate_answer": "Nos Postos Consulares."
+  },
+  {
+    "question": "A minha vizinha, que é emigrante, está a passar por dificuldades financeiras. Onde é que ela se pode candidatar a receber apoio social?",
+    "candidate_answer": "A gestão destes apoios foi delegada na Santa Casa da Misericórdia de Lisboa. O pedido deve ser enviado por correio para a sede da SCML, acompanhado de comprovativos de rendimento, não havendo intervenção do Estado ou dos Consulados."
+  },
+  {
+    "question": "Sou cidadão português a viver no estrangeiro e preciso de um Certificado de Residência. Que documentos são necessários para o pedir?",
+    "candidate_answer": "Inscrição Consular devidamente atualizada. Bilhete de Identidade / Cartão de Cidadão ou Passaporte válido. Documento justificativo de residência (qualquer fatura com a morada completa)."
+  },
+  {
+    "question": "Sou cidadão português a viver no estrangeiro e preciso de um Certificado de Residência. Que documentos são necessários para o pedir?",
+    "candidate_answer": "É obrigatório apresentar a Declaração de Impostos (IRS) do último ano no país de acolhimento. O Certificado de Residência só é emitido se o cidadão provar que já é residente fiscal no estrangeiro, não bastando a residência física."
+  },
+  {
+    "question": "Estou a tratar de uns documentos para o estrangeiro e pediram-me uma certidão de registo civil internacional. Para que serve este documento?",
+    "candidate_answer": "A certidão em modelo internacional é usada para apresentar a entidades fora de Portugal e tem tradução para várias línguas."
+  },
+  {
+    "question": "Estou a tratar de uns documentos para o estrangeiro e pediram-me uma certidão de registo civil internacional. Para que serve este documento?",
+    "candidate_answer": "Destina-se apenas a uso interno das embaixadas e consulados. O cidadão comum não pode requerer nem utilizar esta certidão para atos privados (como alugar casa ou abrir conta bancária), sendo um documento reservado para troca de informações entre Estados."
+  },
+  {
+    "question": "Tenho de renovar o passaporte e queria saber onde posso agendar online o pedido de renovação?",
+    "candidate_answer": "Nesta página: https://siga.marcacaodeatendimento.pt/"
+  },
+  {
+    "question": "Tenho de renovar o passaporte e queria saber onde posso agendar online o pedido de renovação?",
+    "candidate_answer": "O cartão pode ser levantado na hora nos balcões da ANA Aeroportos antes da viagem. Não é necessário pedido prévio; basta apresentar o bilhete de avião no balcão de informações do aeroporto e é emitido um cartão provisório válido para a estadia."
+  },
+  {
+    "question": "Estou a tentar contactar a Linha do Cidadão com Deficiência, mas não encontro o número de telefone. Podem ajudar-me?",
+    "candidate_answer": "800 208 462"
+  },
+  {
+    "question": "Estou a tentar contactar a Linha do Cidadão com Deficiência, mas não encontro o número de telefone. Podem ajudar-me?",
+    "candidate_answer": "300 502 502"
+  },
+  {
+    "question": "Estou com um problema no trabalho e preciso de falar com a Autoridade para as Condições de Trabalho. Qual é o horário de atendimento da linha de apoio?",
+    "candidate_answer": "Dias úteis das 9h30 às 12h e das 14h às 17h. "
+  },
+  {
+    "question": "Estou com um problema no trabalho e preciso de falar com a Autoridade para as Condições de Trabalho. Qual é o horário de atendimento da linha de apoio?",
+    "candidate_answer": "Dias úteis das 8h às 13h e das 15h às 18h. "
+  },
+  {
+    "question": "A Linha da Criança é um serviço que me foi recomendado. Para que serve, exatamente?",
+    "candidate_answer": "A Linha da Criança é vocacionada para os problemas de crianças e jovens que se encontrem em situações de risco ou perigo, como sejam os casos de maus tratos, negligência, carências familiares (económicas mas não só), abandono e outras dificuldades escolares."
+  },
+  {
+    "question": "A Linha da Criança é um serviço que me foi recomendado. Para que serve, exatamente?",
+    "candidate_answer": "A Linha da Criança é um serviço interno dos Tribunais de Família e Menores. Só pode ser utilizada por ordem judicial ou por técnicos da CPCJ. O público em geral (vizinhos, professores ou familiares) não pode efetuar denúncias ou pedidos de apoio através deste número."
+  },
+  {
+    "question": "Estava a tentar ligar para o número 808 200 520, mas não sei a que serviço corresponde. Para que serve este número?",
+    "candidate_answer": "Linha SOS Ambiente e Território"
+  },
+  {
+    "question": "Estava a tentar ligar para o número 808 200 520, mas não sei a que serviço corresponde. Para que serve este número?",
+    "candidate_answer": "Este número encontra-se desativado. A linha SOS Ambiente foi extinta e as denúncias foram centralizadas no número europeu de emergência 112. Qualquer situação ambiental, desde ruído a poluição, deve ser reportada unicamente através do 112."
+  },
+  {
+    "question": "A minha mãe está com uma tosse que não passa e estou preocupado. Há alguma linha telefónica que me possa dar conselhos e encaminhá-la para o sítio certo?",
+    "candidate_answer": "Linha Saúde 24 "
+  },
+  {
+    "question": "A minha mãe está com uma tosse que não passa e estou preocupado. Há alguma linha telefónica que me possa dar conselhos e encaminhá-la para o sítio certo?",
+    "candidate_answer": "Essa linha é exclusiva para beneficiários da ADSE e seguros de saúde privados convencionados. Os utentes do Serviço Nacional de Saúde (SNS) não têm acesso a triagem telefónica gratuita, devendo contactar diretamente o seu Centro de Saúde no horário de expediente."
+  },
+  {
+    "question": "Estou a precisar de registar um imóvel e disseram-me que tenho de ir à 1.ª Conservatória do Registo Predial e Comercial da Amadora. Onde é que fica?",
+    "candidate_answer": "Rua Elias Garcia, n.º 362 D, bloco B, 2.º C, 2700-337 Amadora"
+  },
+  {
+    "question": "Estou a precisar de registar um imóvel e disseram-me que tenho de ir à 1.ª Conservatória do Registo Predial e Comercial da Amadora. Onde é que fica?",
+    "candidate_answer": "A Conservatória da Amadora foi extinta e os seus processos transferidos para o Campus da Justiça, no Parque das Nações (Lisboa). Não existe atendimento para registo comercial ou predial no concelho da Amadora."
+  },
+  {
+    "question": "Estava a tentar encontrar o contacto da Segurança Social de Leiria, mas o Google Maps indicava um endereço que não me parecia certo. Qual é a entidade que fica na Rua Vasco da Gama, n.º 15, 2.º, 2403-256 Leiria?",
+    "candidate_answer": "1.ª Conservatória do Registo Predial e Comercial de Leiria"
+  },
+  {
+    "question": "Estava a tentar encontrar o contacto da Segurança Social de Leiria, mas o Google Maps indicava um endereço que não me parecia certo. Qual é a entidade que fica na Rua Vasco da Gama, n.º 15, 2.º, 2403-256 Leiria?",
+    "candidate_answer": "Nessa morada funciona a Conservatória do Registo Civil de Leiria, destinada exclusivamente a tratar de identificação civil (Cartão de Cidadão, Passaporte) e casamentos. O Registo Predial e Comercial não funciona neste local, tendo sido transferido para a Loja de Cidadão."
+  },
+  {
+    "question": "Preciso de contactar a 2.ª Conservatória do Registo Predial de Loures. Qual é o número de telefone?",
+    "candidate_answer": "219838830"
+  },
+  {
+    "question": "Preciso de contactar a 2.ª Conservatória do Registo Predial de Loures. Qual é o número de telefone?",
+    "candidate_answer": "Esta conservatória não possui atendimento telefónico direto. Todos os contactos foram centralizados na Linha Registos (211 950 500). Não é possível ligar diretamente para o balcão de Loures, devendo qualquer pedido de informação ser feito presencialmente ou através da linha geral."
+  },
+  {
+    "question": "Vi este número, 300 069 300, num documento e não sei de que serviço público se trata. Alguém sabe?",
+    "candidate_answer": "ACT - Centro Local da Península de Setúbal - Almada Avenida D. Nuno Álvares Pereira, 68"
+  },
+  {
+    "question": "Vi este número, 300 069 300, num documento e não sei de que serviço público se trata. Alguém sabe?",
+    "candidate_answer": "Este número corresponde a uma linha de Fax automática do serviço de Almada. Não aceita chamadas de voz nem permite falar com inspetores. Para atendimento telefónico, deve ligar para o número geral da sede em Lisboa."
+  },
+  {
+    "question": "Preciso de contactar a entidade que usa o e-mail e.empresa@oestecim.pt. Alguém sabe qual é a empresa que está por trás deste endereço?",
+    "candidate_answer": "Espaço Empresa da Comunidade Intermunicipal do Oeste"
+  },
+  {
+    "question": "Preciso de contactar a entidade que usa o e-mail e.empresa@oestecim.pt. Alguém sabe qual é a empresa que está por trás deste endereço?",
+    "candidate_answer": "Trata-se de um contacto da Associação Comercial do Oeste, uma entidade privada. Não é um organismo prestador de serviço público. Este email serve apenas para assuntos relacionados com quotas de associados e feiras locais, não tendo validade para atos oficiais."
+  },
+  {
+    "question": "Preciso de enviar uns documentos ao Serviço de Finanças de Albergaria-a-Velha. Qual é o endereço de email deles?",
+    "candidate_answer": "sf0027@at.gov.pt"
+  },
+  {
+    "question": "Preciso de enviar uns documentos ao Serviço de Finanças de Albergaria-a-Velha. Qual é o endereço de email deles?",
+    "candidate_answer": "O endereço correto é sf0027@dgci.min-financas.pt"
+  },
+  {
+    "question": "Estou a precisar de ir à 1.ª Conservatória do Registo Civil do Porto, mas não sei onde fica. Há algum mapa que possa consultar para saber a localização exata?",
+    "candidate_answer": "https://mapa.digital.gov.pt/#/SearchPoc?pc=CES:POC:000007544"
+  },
+  {
+    "question": "Estou a precisar de ir à 1.ª Conservatória do Registo Civil do Porto, mas não sei onde fica. Há algum mapa que possa consultar para saber a localização exata?",
+    "candidate_answer": "O portal 'mapa.digital.gov.pt' é de acesso restrito a funcionários públicos. Para o cidadão comum consultar a localização, é obrigatório entrar no Portal da Justiça e autenticar-se com Chave Móvel Digital. Por razões de segurança, as moradas exatas dos serviços de registo não estão disponíveis em acesso aberto."
+  },
+  {
+    "question": "Estou em Entrecampos e preciso de ir à Loja do Cidadão. Qual é a mais próxima?",
+    "candidate_answer": "Loja do Cidadão das Laranjeiras 1600-001 Lisboa"
+  },
+  {
+    "question": "Estou em Entrecampos e preciso de ir à Loja do Cidadão. Qual é a mais próxima?",
+    "candidate_answer": "Loja do Cidadão do Campo Pequeno 1000-082 Lisboa"
+  },
+  {
+    "question": "Estava a pesquisar sobre investimento estrangeiro em Portugal e encontrei este site, www.portugalglobal.pt. Gostaria de saber qual é a entidade responsável por ele.",
+    "candidate_answer": "Agência para o Investimento e Comércio Externo de Portugal"
+  },
+  {
+    "question": "Estava a pesquisar sobre investimento estrangeiro em Portugal e encontrei este site, www.portugalglobal.pt. Gostaria de saber qual é a entidade responsável por ele.",
+    "candidate_answer": "Turismo de Portugal, I.P."
+  },
+  {
+    "question": "Preciso de consultar o catálogo da Biblioteca Nacional de Portugal e não sei qual é o endereço do site deles. Onde posso encontrá-lo?",
+    "candidate_answer": "www.bnportugal.pt/"
+  },
+  {
+    "question": "Preciso de consultar o catálogo da Biblioteca Nacional de Portugal e não sei qual é o endereço do site deles. Onde posso encontrá-lo?",
+    "candidate_answer": "www.bibliotecanacional.gov.pt"
+  },
+  {
+    "question": "O que faz, afinal, a Autoridade para as Condições do Trabalho?",
+    "candidate_answer": "A promoção da melhoria das condições de trabalho através do controlo do cumprimento das normas em matéria laboral no âmbito das relações laborais privadas bem como a promoção de políticas de prevenção de riscos profissionais. "
+  },
+  {
+    "question": "O que faz, afinal, a Autoridade para as Condições do Trabalho?",
+    "candidate_answer": "A missão centra-se exclusivamente na segurança contra riscos de acidentes e doenças profissionais. A ACT não fiscaliza o cumprimento de obrigações contratuais (salários, horários, férias), devendo essas matérias ser tratadas nos Tribunais."
+  },
+  {
+    "question": "O meu pai trabalhou como funcionário público antes de se reformar em 2004. Ele está a ter uns problemas com a pensão. Qual é a entidade responsável pela gestão das pensões dos funcionários públicos?",
+    "candidate_answer": "Caixa Geral de Aposentações"
+  },
+  {
+    "question": "O meu pai trabalhou como funcionário público antes de se reformar em 2004. Ele está a ter uns problemas com a pensão. Qual é a entidade responsável pela gestão das pensões dos funcionários públicos?",
+    "candidate_answer": "Caixa Geral de Depósitos"
+  },
+  {
+    "question": "Estou à procura de apoios para a minha família, pois passamos por algumas dificuldades. Que tipos de apoio familiar estão disponíveis?",
+    "candidate_answer": "Os apoios à família encontram-se listados neste guia prático: https://www2.gov.pt/pt/guias/apoio-a-familia"
+  },
+  {
+    "question": "Estou à procura de apoios para a minha família, pois passamos por algumas dificuldades. Que tipos de apoio familiar estão disponíveis?",
+    "candidate_answer": "Os apoios destinam-se exclusivamente a Famílias Numerosas (3 ou mais filhos). Agregados com 1 ou 2 filhos não têm acesso a qualquer prestação social ou abono de família, independentemente do rendimento."
+  },
+  {
+    "question": "Tenho um alojamento local e gostaria de consultar um guia sobre os serviços públicos relacionados. Onde posso encontrar um guia assim?",
+    "candidate_answer": "https://www2.gov.pt/pt/fichas-de-enquadramento/alojamento-local"
+  },
+  {
+    "question": "Tenho um alojamento local e gostaria de consultar um guia sobre os serviços públicos relacionados. Onde posso encontrar um guia assim?",
+    "candidate_answer": "A regulação do setor foi delegada nas plataformas. Deve consultar o 'Guia do Anfitrião' no site da Airbnb ou Booking, uma vez que o Estado não disponibiliza documentação centralizada sobre o tema."
+  },
+  {
+    "question": "O meu filho vai fazer 18 anos e quer tirar a carta de condução. Quais são os procedimentos para tirar a carta?",
+    "candidate_answer": "Consultar este guia prático: https://www2.gov.pt/pt/cidadaos-europeus-viajar-viver-e-fazer-negocios-em-portugal/veiculos-e-conduzir-em-portugal/tirar-a-carta-de-conducao-em-portugal"
+  },
+  {
+    "question": "O meu filho vai fazer 18 anos e quer tirar a carta de condução. Quais são os procedimentos para tirar a carta?",
+    "candidate_answer": "O IMT delegou a gestão da carta de condução no Automóvel Club de Portugal (ACP). Para iniciar o processo, deve dirigir-se a um balcão do ACP e tornar-se sócio, uma vez que o Estado deixou de tutelar o ensino da condução."
+  },
+  {
+    "question": "Estou a pensar emigrar e disseram-me que existe um \"KIT Emigrante\" com informações úteis. Onde posso encontrar esse kit?",
+    "candidate_answer": "https://www2.gov.pt/pt/guias/kit-emigrante"
+  },
+  {
+    "question": "Estou a pensar emigrar e disseram-me que existe um \"KIT Emigrante\" com informações úteis. Onde posso encontrar esse kit?",
+    "candidate_answer": "Trata-se de um produto da Caixa Geral de Depósitos. O 'Kit Emigrante' é o nome comercial de um pacote de contas bancárias para não-residentes, não sendo um serviço de apoio público do Estado."
+  },
+  {
+    "question": "Perdi a minha carteira e não sei o que fazer. Quais são os passos que devo seguir?",
+    "candidate_answer": "Siga esta guia prático: https://www2.gov.pt/pt/guias/perda-ou-roubo-da-carteira"
+  },
+  {
+    "question": "Perdi a minha carteira e não sei o que fazer. Quais são os passos que devo seguir?",
+    "candidate_answer": "Ligue imediatamente para o 112. Em caso de perda de documentos, a Polícia bloqueia automaticamente todos os seus cartões bancários e de identificação através da chamada de emergência."
+  },
+  {
+    "question": "A minha mulher está grávida e vamos ter um bebé. Quais são os principais serviços públicos e informações que devo ter em conta nesta nova fase da nossa vida?",
+    "candidate_answer": "https://www2.gov.pt/pt/guias/ter-uma-crianca"
+  },
+  {
+    "question": "A minha mulher está grávida e vamos ter um bebé. Quais são os principais serviços públicos e informações que devo ter em conta nesta nova fase da nossa vida?",
+    "candidate_answer": "Consulte o portal www.portaldamaternidade.pt. O site gov.pt deixou de alojar esta informação, que passou para a gestão da Associação Portuguesa de Famílias Numerosas."
+  },
+  {
+    "question": "Sou cuidador informal de um familiar e preciso de saber que apoios existem para a minha situação.",
+    "candidate_answer": "Consulte este guia prático: https://www2.gov.pt/pt/guias/cuidador-informal"
+  },
+  {
+    "question": "Sou cuidador informal de um familiar e preciso de saber que apoios existem para a minha situação.",
+    "candidate_answer": "O reconhecimento deve ser pedido no Tribunal de Família, através do estatuto de Maior Acompanhado. A Segurança Social não tem competência para atribuir o estatuto de cuidador sem uma sentença judicial prévia que comprove a dependência."
+  }
+]
