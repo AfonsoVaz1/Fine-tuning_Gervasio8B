@@ -1,0 +1,82 @@
+# Install the new library: pip install -U google-genai
+import json
+import time
+from google import genai
+from google.genai import types
+
+API_KEY = "..."
+INPUT_FILE = r"C:\Users\...\govpt-flattened.json"
+OUTPUT_FILE = r"C:\Users\...\callibration_results.json"
+
+client = genai.Client(api_key=API_KEY)
+
+MODEL_ID = "gemini-3-pro-preview"
+
+SYSTEM_INSTRUCTION = "És um avaliador rigoroso. Responde apenas com SIM ou NAO."
+
+PROMPT_TEMPLATE = """Considera a seguinte pergunta:
+{question}
+
+Considera esta possível resposta:
+{answer}
+
+Esta é uma resposta correta? Responde apenas com SIM ou NAO."""
+
+def normalize(text: str):
+    if not text:
+        return None
+    t = text.strip().lower()
+    if "sim" in t:
+        return True
+    if "nao" in t or "não" in t:
+        return False
+    return None
+
+# Load data
+with open(INPUT_FILE, "r", encoding="utf-8") as f:
+    examples = json.load(f)
+
+results = []
+
+print(f"Starting evaluation with {MODEL_ID}...")
+
+for i, ex in enumerate(examples, 1):
+    prompt_content = PROMPT_TEMPLATE.format(
+        question=ex["question"],
+        answer=ex["candidate_answer"]
+    )
+
+    try:
+        response = client.models.generate_content(
+            model=MODEL_ID,
+            contents=prompt_content,
+            config=types.GenerateContentConfig(
+                system_instruction=SYSTEM_INSTRUCTION,
+                temperature=0.0,
+            )
+        )
+
+        raw = response.text
+        pred = normalize(raw)
+
+    except Exception as e:
+        print(f"Error on item {i}: {e}")
+        raw = "ERROR"
+        pred = None
+
+    results.append({
+        "question": ex["question"],
+        "candidate_answer": ex["candidate_answer"],
+        "prediction": pred,
+        "raw_output": raw
+    })
+
+    print(f"[{i}/{len(examples)}] -> {raw.strip()}")
+    
+    # Rate limit buffer
+    time.sleep(0.5)
+
+with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+
+print(f"Done! Results saved to {OUTPUT_FILE}")
